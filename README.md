@@ -1,2 +1,2 @@
 # hello-world
-a hello-world code
+a hello-world program written in python
